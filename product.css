@@ -1,0 +1,44 @@
+
+
+.image{
+    border: 1px solid wheat;
+}
+
+.description{
+ font-weight: 500;
+
+}
+
+.checked {
+    color: orange;
+  }
+
+.shirt-pic{
+    margin-top: 20px;
+}
+
+.shirt-des{
+    margin-top: 40px;
+}
+
+.rate span {
+    margin-left: 1em;
+}
+
+.table,td {
+    padding: 0 30px;
+}
+
+#small{
+    margin-left: .4rem;
+}
+
+#selectNumber{
+    margin-left: 1rem;
+}
+
+@media(max-width:750px){
+    .shirt-pic{
+        margin-left: 50px;
+    }
+}
