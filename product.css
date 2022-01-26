@@ -39,6 +39,7 @@
 
 @media(max-width:750px){
     .shirt-pic{
-        margin-left: 50px;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
